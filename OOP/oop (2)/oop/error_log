@@ -1,0 +1,23 @@
+[15-Mar-2021 12:01:14 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Line::getDistance(), 0 passed in C:\xampp\htdocs\PHP_E\oop\class.php on line 68 and exactly 4 expected in C:\xampp\htdocs\PHP_E\oop\class.php:56
+Stack trace:
+#0 C:\xampp\htdocs\PHP_E\oop\class.php(68): Line::getDistance()
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP_E\oop\class.php on line 56
+[15-Mar-2021 12:09:52 Europe/Berlin] PHP Recoverable fatal error:  Method Point::__toString() must return a string value in C:\xampp\htdocs\PHP_E\oop\class.php on line 74
+[15-Mar-2021 12:10:09 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\PHP_E\oop\class.php on line 40
+[15-Mar-2021 12:10:09 Europe/Berlin] PHP Recoverable fatal error:  Method Point::__toString() must return a string value in C:\xampp\htdocs\PHP_E\oop\class.php on line 74
+[15-Mar-2021 12:11:11 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\PHP_E\oop\class.php on line 40
+[15-Mar-2021 12:11:11 Europe/Berlin] PHP Recoverable fatal error:  Method Point::__toString() must return a string value in C:\xampp\htdocs\PHP_E\oop\class.php on line 74
+[16-Mar-2021 10:52:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access private property Book::$title in C:\xampp\htdocs\PHP_E\oop\book_class.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP_E\oop\book_class.php on line 12
+[16-Mar-2021 10:53:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access private property Book::$title in C:\xampp\htdocs\PHP_E\oop\book_class.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP_E\oop\book_class.php on line 13
+[16-Mar-2021 10:57:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access private property Book::$title in C:\xampp\htdocs\PHP_E\oop\book_class.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP_E\oop\book_class.php on line 21
+[16-Mar-2021 12:40:31 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'Book' (T_STRING) in C:\xampp\htdocs\PHP_E\oop\book_class.php on line 130
